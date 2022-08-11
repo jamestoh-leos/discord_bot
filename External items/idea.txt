@@ -1,0 +1,13 @@
+documentation:
+https://discord.js.org/#/docs/main/stable/general/welcome
+
+better-sqlite3
+https://github.com/AnIdiotsGuide/discordjs-bot-guide/blob/master/coding-guides/sqlite-based-points-system.md
+
+Better sqlite 3 documentation or w.e
+https://www.npmjs.com/package/better-sqlite3
+
+1. check for user name before display nick name
+  If nick name = username
+  display only username
+  else display nick name then username

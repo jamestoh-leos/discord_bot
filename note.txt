@@ -1,0 +1,8 @@
+Get sql query
+https://www.sqlitetutorial.net/sqlite-nodejs/query/
+
+Discord Client Events.
+https://gist.githubusercontent.com/koad/316b265a91d933fd1b62dddfcc3ff584/raw/5c086d175052f09f33eef4480cd7f3243f8f6843/discordjs-cheatsheet.js
+
+SQLite .schema / describe table
+https://www.sqlitetutorial.net/sqlite-tutorial/sqlite-describe-table/

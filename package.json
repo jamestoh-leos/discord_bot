@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "github:discordjs/opus",
+    "@discordjs/voice": "github:discordjs/voice",
+    "@google-cloud/text-to-speech": "^0.2.0",
+    "better-sqlite3": "^7.4.3",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "google-tts-api": "^2.0.2",
+    "lodash": "^4.17.21"
+  }
+}
